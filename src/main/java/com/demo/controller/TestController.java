@@ -1,5 +1,7 @@
-package com.demo.test;
+package com.demo.controller;
 
+import com.demo.vo.TestParam;
+import com.demo.vo.TestResp;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.RequestBody;
